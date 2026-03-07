@@ -32,5 +32,5 @@ def update_lifecycle(bucket_name):
 
 if __name__ == "__main__":
     # Apna bucket name yahan daalo
-    bucket_name = "your-bucket-name"
+    bucket_name = "amolpcs126789"
     update_lifecycle(bucket_name)
