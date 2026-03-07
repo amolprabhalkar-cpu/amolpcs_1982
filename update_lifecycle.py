@@ -24,7 +24,7 @@ def update_lifecycle(bucket_name):
     }
 
     s3.put_bucket_lifecycle_configuration(
-        Bucket=bucket_name,
+        Bucket=amolpcs126789,
         LifecycleConfiguration=lifecycle_config
     )
 
